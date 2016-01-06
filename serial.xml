@@ -15,6 +15,14 @@
 				<string>basic tech</string>
 				<key>comments-version</key>
 				<string>LineCommentV2</string>
+				<key>InterLink</key>
+				<dict>
+					<key>FAKEEBB07D78-B5F8-4CC3-B2FD-0A1E9E9A23BF</key>
+					<dict>
+						<key>核心代码serial_core.c</key>
+						<string>drivers/serial/serial_core.c.z</string>
+					</dict>
+				</dict>
 			</dict>
 			<key>comments_file_name</key>
 			<string>/drivers/serial.plist</string>
