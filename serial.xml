@@ -10,122 +10,34 @@
 			<key>comments_file_content</key>
 			<dict>
 				<key>FileComments</key>
-				<string>串口驱动</string>
+				<string>basic serial driver  </string>
 				<key>Group</key>
 				<string>basic tech</string>
+				<key>InterFileLink</key>
+				<dict/>
 				<key>InterLink</key>
 				<dict>
-					<key>E3C76C4B-37B7-48B5-8BB5-8F9102C519F9</key>
+					<key>44060D8F-70D8-4376-A12F-365FE6761017</key>
 					<dict>
-						<key>核心代码serial_core.c</key>
+						<key>core code serial_core.c</key>
 						<string>drivers/serial/serial_core.c.z</string>
 					</dict>
 				</dict>
+				<key>LinkToWebKey</key>
+				<dict>
+					<key>21DCA156-4C4E-4C4F-8AA8-4CFAED9E9409</key>
+					<dict>
+						<key>man minicom</key>
+						<string>http://linux.die.net/man/1/minicom</string>
+					</dict>
+					<key>AAEC7FD0-2998-4F82-B234-B22110116EB9</key>
+					<dict>
+						<key>ubuntu minicom</key>
+						<string>https://help.ubuntu.com/community/Minicom</string>
+					</dict>
+				</dict>
 				<key>TimeLine</key>
-				<array>
-					<dict>
-						<key>Comments</key>
-						<string>Suggested Tag:basic tech</string>
-						<key>Owner</key>
-						<string>一月三日新名字</string>
-						<key>OwnerUUID</key>
-						<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
-						<key>UUID</key>
-						<string>4F6756D1-FE68-4265-ADD3-9233557079A6</string>
-						<key>time</key>
-						<string>2016-01-04 16:06:18</string>
-						<key>type</key>
-						<string>Normal</string>
-					</dict>
-					<dict>
-						<key>Comments</key>
-						<string>串口驱动</string>
-						<key>Owner</key>
-						<string>一月三日新名字</string>
-						<key>OwnerUUID</key>
-						<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
-						<key>UUID</key>
-						<string>3D9B218D-122C-4FBA-B4AD-9638412F7C6B</string>
-						<key>time</key>
-						<string>2016-01-04 16:06:18</string>
-						<key>type</key>
-						<string>Normal</string>
-					</dict>
-					<dict>
-						<key>Comments</key>
-						<string>Suggested Tag:basic tech</string>
-						<key>Owner</key>
-						<string>一月三日新名字</string>
-						<key>OwnerUUID</key>
-						<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
-						<key>UUID</key>
-						<string>EC6D4A91-3E9B-4613-8649-6230237D8AEA</string>
-						<key>time</key>
-						<string>2016-01-04 16:06:58</string>
-						<key>type</key>
-						<string>Normal</string>
-					</dict>
-					<dict>
-						<key>Comments</key>
-						<string>串口驱动</string>
-						<key>Owner</key>
-						<string>一月三日新名字</string>
-						<key>OwnerUUID</key>
-						<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
-						<key>UUID</key>
-						<string>303BD301-5291-47CF-8CE4-B707CE8D2B18</string>
-						<key>time</key>
-						<string>2016-01-04 16:06:58</string>
-						<key>type</key>
-						<string>Normal</string>
-					</dict>
-					<dict>
-						<key>Comments</key>
-						<string>Old Tag:basic tech</string>
-						<key>Owner</key>
-						<string>一月四日名字</string>
-						<key>OwnerUUID</key>
-						<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
-						<key>UUID</key>
-						<string>475570C6-1A4A-40DA-8946-AAB83C5DC311</string>
-						<key>time</key>
-						<string>2016-01-06 14:40:44</string>
-						<key>type</key>
-						<string>Normal</string>
-					</dict>
-					<dict>
-						<key>Comments</key>
-						<string>串口驱动</string>
-						<key>Owner</key>
-						<string>一月四日名字</string>
-						<key>OwnerUUID</key>
-						<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
-						<key>UUID</key>
-						<string>92B7D801-F0BF-4F8B-998F-3AFFF9AF76B0</string>
-						<key>time</key>
-						<string>2016-01-06 14:40:44</string>
-						<key>type</key>
-						<string>Normal</string>
-					</dict>
-					<dict>
-						<key>OrigUUID</key>
-						<string>FAKEEBB07D78-B5F8-4CC3-B2FD-0A1E9E9A23BF</string>
-						<key>Owner</key>
-						<string>一月三日新名字</string>
-						<key>OwnerUUID</key>
-						<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
-						<key>Target</key>
-						<string>drivers/serial/serial_core.c.z</string>
-						<key>Tip</key>
-						<string>核心代码serial_core.c</string>
-						<key>UUID</key>
-						<string>79899CAA-1EA2-4BED-98D7-FF9BA02C65DB</string>
-						<key>time</key>
-						<string>2016-01-04 11:02:28</string>
-						<key>type</key>
-						<string>InterLink</string>
-					</dict>
-				</array>
+				<array/>
 				<key>comments-version</key>
 				<string>LineCommentV2</string>
 			</dict>
@@ -182,23 +94,10 @@
 								<string>drivers/serial/serial_core.c.z</string>
 							</dict>
 						</dict>
+						<key>OtherProjectLink</key>
+						<dict/>
 						<key>TimeLineComments</key>
-						<array>
-							<dict>
-								<key>Owner</key>
-								<string>一月三日新名字</string>
-								<key>OwnerUUID</key>
-								<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
-								<key>UUID</key>
-								<string>84DB77AF-468C-45C9-834F-071859B0ED4F</string>
-								<key>comment</key>
-								<string>在串口核心代码中定义</string>
-								<key>time</key>
-								<string>2016-01-04 11:02:28</string>
-								<key>type</key>
-								<string>NewUniq</string>
-							</dict>
-						</array>
+						<array/>
 						<key>UniqComment</key>
 						<dict>
 							<key>UUID</key>
@@ -2107,7 +2006,7 @@
 	<key>project_name</key>
 	<string>linux-2.6.32.67.bundle</string>
 	<key>time</key>
-	<string>2016-08-18 22:18:57</string>
+	<string>2016-09-02 12:00:38</string>
 	<key>version</key>
 	<string>c-p-3</string>
 </dict>
